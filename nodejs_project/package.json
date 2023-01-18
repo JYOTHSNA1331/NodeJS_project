@@ -9,7 +9,7 @@
     "develop": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Keshav",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
