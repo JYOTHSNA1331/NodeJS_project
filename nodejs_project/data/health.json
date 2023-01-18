@@ -1,0 +1,119 @@
+[
+    {
+        "id":"1",
+        "title":"A New Test Could Help Find Hidden Viruses We've Never Seen Before",
+        "description":"As the coronavirus pandemic has shown, it's not just known viruses we've got to worry about: scientists and doctors also need to be looking out for new, emerging variants that can evade current treatments and catch us unawares.",
+        "urlToImage":"https://www.sciencealert.com/images/2023/01/BlueGloveHoldsNasalSwabWithYellowCircle.jpg",
+        "publishedAt":"2023-01-10T05:18:38Z",
+        "tag": "Health"
+    },
+    {
+        "id":"2",
+        "title":"Debunking 6 Common Myths Around Diabetes",
+        "description":"There is a widespread lack of awareness surrounding diabetes and several myths associated with it. We try to bunk them",
+        "urlToImage":"https://images.news18.com/ibnlive/uploads/2022/11/diabetes-166899939016x9.jpg",
+        "publishedAt":"2023-01-10T04:47:12Z",
+        "tag": "Health"
+    },
+    {
+        "id":"3",
+        "title":"Trouble sleeping: A common symptom of long COVID",
+        "description":"Various studies show that long COVID patients frequently suffer from insomnia and other sleep problems.",
+        "urlToImage":"https://images.hindustantimes.com/img/2023/01/10/1600x900/dw_1673320278164_1673320285793_1673320285793.jpg","publishedAt":"2023-01-10T03:14:13Z",
+        "tag": "Health"
+    },
+    {
+        "id":"4",
+        "title":"Importance of having a plant-based diet",
+        "description":"Obesity is an emerging public health problem of epidemic proportions worldwide.",
+        "urlToImage":"https://assets.sentinelassam.com/h-upload/2023/01/10/428962-plant.jpg",
+        "publishedAt":"2023-01-10T02:15:08Z",
+        "tag": "Health"
+    },
+    {
+        "id":"5",
+        "title":"Colds, flu and COVID: How diet and lifestyle can boost your immune system",
+        "description":"Every day we are exposed to a wide array of potentially harmful microorganisms – such as colds, the flu and even COVID.",
+        "urlToImage":"https://nenow.in/wp-content/uploads/2022/11/dengue_or_Covid19-Metropolis-blog.png",
+        "publishedAt":"2023-01-10T01:50:00Z",
+        "tag": "Health"
+    },
+    {
+        "id":"6",
+        "title":"Study suggests that long-COVID is associated with physical inactivity",
+        "description":"In a recent study published in the Scientific Reports journal, tresearchers in Brazil assessed the association between post-acute sequelae of coronavirus disease 2019 (COVID-19) (PASC) and physical inactivity.",
+        "urlToImage":"https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_735258_16733138724763793.jpg","publishedAt":"2023-01-10T01:25:00Z",
+        "tag": "Health"
+    },
+    {
+        "id":"7",
+        "title":"Healthy eating patterns associated with reduced risk of premature mortality",
+        "description":"A variety of healthy eating patterns are linked to reduced risk of premature death, according to a new study led by Harvard T.H. Chan School of Public Health researchers.",
+        "urlToImage":"https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/9/heart_disease_1_12c3ff20f43b43d898bf18f5689e0c7c-620x480.jpg",
+        "publishedAt":"2023-01-10T00:53:00Z",
+        "tag": "Health"
+    },
+    {
+        "id":"8",
+        "title":"Male pattern baldness affects two-thirds of men but treatments on the horizon",
+        "description":"Overcome with anxiety and poor self-esteem, Jay Massey, then 24, decided to have a heart-to-heart with his dad, former Crystal Palace footballer Stuart Massey.",
+        "urlToImage":"https://i.dailymail.co.uk/1s/2023/01/09/23/66384811-0-image-a-10_1673306974632.jpg",
+        "publishedAt":"2023-01-10T00:16:00Z",
+        "tag": "Health"
+    },
+    {
+        "id":"9",
+        "title":"Frequent Use of Antibiotics May Heighten Inflammatory Bowel Disease Risk in Adults Over 40",
+        "description":"Adult exposure to antibiotics appears to be linked to an increased risk of developing an inflammatory bowel disorder, including Crohn's disease and ulcerative colitis. The risk appears to be cumulative, greatest around two years after use, and for antibiotics…",
+        "urlToImage":"https://neurosciencenews.com/files/2023/01/ibd-antibiotics-aging-neurosinces-public.jpg",
+        "publishedAt":"2023-01-10T00:09:21Z",
+        "tag": "Health"
+    },
+    {
+        "id":"10",
+        "title":"New survey shows increase in COVID-19 vaccine acceptance across 23 countries in 2022",
+        "description":"Acceptance of COVID-19 vaccines increased globally, from 75.2% in 2021 to 79.1% in 2022, according to a survey in 23 countries that represent more than 60% of the world's population.",
+        "urlToImage":"https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/A_doctor_makes_a_vaccination_to_a_child-Yuganov_Konstantin_cdbf1b05417f45e89b8268af4858e1c9-620x480.jpg","publishedAt":"2023-01-09T23:54:00Z",
+        "tag": "Health"
+    },
+    {
+        "id":"11",
+        "title":"Researchers study the spatial distribution of SARS-CoV-2 Omicron BA.1 variant in England",
+        "description":"Researchers performed a genomic assessment of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Omicron variant’s BA.1 subvariant transmission in England.",
+        "urlToImage":"https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_735190_16732753434709389.jpg",
+        "publishedAt":"2023-01-09T21:33:00Z",
+        "tag": "Health"
+    },
+    {
+        "id":"12",
+        "title":"Study: There Are 4 Subtypes of Long COVID",
+        "description":"Doctors say this is another step toward figuring out the complicated condition.",
+        "urlToImage":"https://hips.hearstapps.com/hmg-prod/images/woman-coughing-into-elbow-while-sitting-in-bed-royalty-free-image-1673281780.jpg?crop=1xw:0.74993xh;center,top&resize=1200:*",
+        "publishedAt":"2023-01-09T19:15:44Z",
+        "tag": "Health"
+    },
+    {
+        "id":"13",
+        "title":"NIH awards eight research grants to advance diagnosis of Multisystem Inflammatory Syndrome in Children",
+        "description":"The National Institutes of Health has awarded eight research grants to refine new technologies for early diagnosis of severe illnesses resulting from SARS-CoV-2 infection in children.",
+        "urlToImage":"https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Children_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
+        "publishedAt":"2023-01-09T18:26:00Z",
+        "tag": "Health"
+    },
+    {
+        "id":"14",
+        "title":"Researchers uncover how exercise preserves fitness during aging",
+        "description":"Discovery could signpost promising strategies for promoting muscle function during aging.",
+        "urlToImage":"https://longevity.technology/wp-content/uploads/2023/01/Woman-running-on-beach.jpg",
+        "publishedAt":"2023-01-09T18:22:35Z",
+        "tag": "Health"
+    },
+    {
+        "id":"15",
+        "title":"Type 2 diabetes: Low-carb diet can help achieve full remission",
+        "description":"A new study involving 186 patients with type 2 diabetes suggests that a low-carbohydrate diet helped over half of the participants achieve remission.",
+        "urlToImage":"https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/01/low_carb_protein_salad_732x549_thumb.jpg",
+        "publishedAt":"2023-01-09T17:50:44Z",
+        "tag": "Health"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id":"2",
+        "title":"Robot scans that can spot bowel cancer humans miss",
+        "description":"Colonoscopies are the 'gold standard' way of diagnosing the disease. This is where the large bowel is examined using a camera attached to a thin, flexible tube.",
+        "urlToImage":"https://i.dailymail.co.uk/1s/2023/01/09/22/66382165-0-image-a-4_1673302527542.jpg",
+        "publishedAt":"2023-01-09T22:30:02Z",
+        "tag": "Health"
+    },
+    {
+        "id":"3",
+        "title":"Stroke deaths drop in U.S., but study shows rise in strokes is likely",
+        "description":"UPI delivers the latest headlines from around the world",
+        "urlToImage":"//www.upi.com/img/upi-fb.png",
+        "publishedAt":"2023-01-09T19:13:55Z",
+        "tag": "Health"
+    },
+    {
+        "id":"4",
+        "title":"Proper hydration may extend your lifespan",
+        "description":"People who drink more water have lower chances to develope heart and lung disease.",
+        "urlToImage":"https://img.etimg.com/thumb/msid-96863380,width-1070,height-580,imgsize-25250,overlay-etpanache/photo.jpg",
+        "publishedAt":"2023-01-09T17:47:00Z",
+        "tag": "Health"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id":"1",
+        "title": "All is not well with China's Zhurong rover on Mars. It has gone silent",
+        "description": "The rover was expected to come out of hibernation in December and re-establish connection with Earth, but that is yet to happen.",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/zhurong_a_0-sixteen_nine.jpeg?VersionId=MrlrEZAtA6rXDv90ExqJ4WWjv.4AWg9a",
+        "publishedAt": "2023-01-10T06:02:03Z",
+        "tag": "General"
+    }, 
+    { 
+        "id":"2",
+        "title": "TCS declares record dividend", 
+        "description": "TCS on Monday announced an interim dividend of  ₹75 which included special dividend of  ₹67",
+        "urlToImage": "https://images.livemint.com/img/2023/01/10/600x338/tcs_dividend_1673326666184_1673326666465_1673326666465.jpg", 
+        "publishedAt": "2023-01-10T05:11:08Z",
+        "tag": "General"
+    }, 
+    { 
+        "id":"3",
+        "title": "WhatsApp may soon let users save disappearing messages sent by others in chat", 
+        "description": "WhatsApp's disappearing messages is a key feature which provides an extra layer of privacy.",  
+        "urlToImage": "https://img.etimg.com/thumb/msid-96872518,width-1070,height-580,imgsize-42340,overlay-etpanache/photo.jpg", 
+        "publishedAt": "2023-01-10T04:52:00Z", 
+        "tag": "General"
+    }, 
+    {  
+        "id":"4",
+        "title": "Rohit Sharma's Decision To Drop Ishan Kishan From 1st ODI Makes Venkatesh Prasad Fume", 
+        "description": "India captain Rohit Sharma confirmed that Shubman Gill will open with him in the 1st ODI against Sri Lanka on Tuesday, ahead of Ishan Kishan who had scored a double century in his last one-day match.", 
+        "urlToImage": "https://c.ndtvimg.com/2023-01/gl4t3gko_rohit-sharma-pc-afp_625x300_10_January_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675", 
+        "publishedAt": "2023-01-10T04:51:19Z", 
+        "tag": "General"
+    },
+    { 
+        "id":"5",
+        "title": "Tata nears iPhone plant takeover to grow Apple supply role", 
+        "description": "The airline-to-software conglomerate has been in talks with the factorys owner, Taiwans Wistron Corp., for months, and is looking to complete the purchase by the end of March, according to two people familiar with the process.",
+        "urlToImage": "https://img.etimg.com/thumb/msid-96871711,width-1070,height-580,imgsize-117118,overlay-economictimes/photo.jpg", 
+        "publishedAt": "2023-01-10T04:13:00Z", 
+        "tag": "General"
+    }, 
+    { 
+        "id":"6",
+        "title": "‘No matter how many struggles I face in life…’: Samantha Ruth Prabhu breaks down at 'Shaakuntalam' trailer launch event", 
+        "description": "Actress Samantha Ruth Prabhu, who is currently recovering from Myositis, recently got emotional while attending the trailer launch event of her upcoming movie 'Shaakuntalam'. Cameras caught the actress wiping tears while director Gunasekhar heaped praises on …", 
+        "urlToImage": "https://timesofindia.indiatimes.com/photo/96870740/size-38530/96870740.jpg",
+        "publishedAt": "2023-01-10T03:46:51Z", 
+        "tag": "General"
+    }, 
+    {  
+        "id":"7",
+        "title": "UPMSP releases UP board 10th, 12th date sheet 2023", 
+        "description": "UP board 10th, 12th time table 2023 released by UPMSP. Both exams will begin on February 16.", 
+        "urlToImage": "https://images.hindustantimes.com/img/2023/01/10/1600x900/up-board-exam-2023_1673319928960_1673319929310_1673319929310.jpg",
+        "publishedAt": "2023-01-10T03:10:00Z", 
+        "tag": "General"
+    }, 
+    {  
+        "id":"8",
+        "title": "50 Flights, 36 Trains Delayed As Dense Fog Covers Delhi", 
+        "description": "36 trains are running late in the Northern Railway region. Around 40 flights have been delayed at Delhi airport due to weather conditions.",  
+        "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/01/10/e9a0d98d1caa2bbb23f0e25100da15811673316944624566_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628", 
+        "publishedAt": "2023-01-10T02:10:14Z",
+        "tag": "General"
+    }, 
+    { 
+        "id":"9",
+        "title": "CA Result 2022 time: ICAI to release CA Inter, Final result today on icai.nic.in", 
+        "description": "CA Result 2022 time has not been announced yet. However, following the past trends, result will be released at around 11 am today. List on official websites on which candidates will be able to check it is mentioned below. ICAI CA result LIVE updates can also …", 
+        "urlToImage": "https://static.tnn.in/thumb/msid-96868136,imgsize-100,updatedat-1673322662878,width-1280,height-720,resizemode-75/96868136.jpg", 
+        "publishedAt": "2023-01-10T02:03:14Z", 
+        "tag": "General"
+    }, 
+    { 
+        "id":"10",
+        "title": "Stock Market Today: Top 10 things to know before the market opens today", 
+        "description": "Stock Market News: Trends in the SGX Nifty indicate a cautious opening for the broader index in India with a loss of 2 points on Tuesday in sync with flat trading at Wall Street and mixed cues from Asian peers",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/12/markets2-725x435.jpg",
+        "publishedAt": "2023-01-10T01:51:19Z", 
+        "tag": "General"
+    }
+]
